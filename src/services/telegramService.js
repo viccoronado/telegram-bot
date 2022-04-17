@@ -47,7 +47,7 @@ let sendMeAGif = () => {
       let data = {
         chat_id: TELEGRAM_GROUP_ID,
         parse_mode: "HTML",
-        animation: "https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif",
+        animation: "https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif",
         caption: "<b>Check out</b> my <i>new gif</i>",
       };
 
