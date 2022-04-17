@@ -1,6 +1,6 @@
 # Telegram Bot: Push Notifications 🚀
 
-_Bot de Telegram que envía push notifications a un grupo de Telegram, enviando un mensaje de texto y/o un gif._
+_Este es un sencillo bot de Telegram desarrollado a modo de práctica cuya única finalidad es enviar push notifications a un grupo de Telegram, pudiendo ser un mensaje de texto y/o un gif._
 
 
 ### Instalación 🔧
@@ -11,9 +11,7 @@ _Si queres clonar este proyecto (y mejorarlo) podes hacerlo clonándolo y con el
 npm install
 ```
 
-_instalas las dependencias necesarias._
-
-_Vas a tener que crear un archivo .env, un Telegram Bot con Bot Father, un grupo en Telegram y agregar el bot a ese grupo._
+_instalas las dependencias necesarias. Vas a tener que crear un archivo .env, un Telegram Bot con Bot Father, un grupo en Telegram y agregar el bot a ese grupo._
 
 
 ## Construido con 🛠️
