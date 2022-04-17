@@ -1,6 +1,6 @@
 # Telegram Bot: Push Notifications 🚀
 
-_Este es un sencillo bot de Telegram desarrollado a modo de práctica cuya única finalidad es enviar push notifications a un grupo de Telegram, pudiendo ser un mensaje de texto y/o un gif._
+_Este es un sencillo bot de Telegram desarrollado a modo de práctica cuya única finalidad es enviar push notifications a un grupo de Telegram, pudiendo ésta ser un mensaje de texto y/o un gif._
 
 
 ### Instalación 🔧
