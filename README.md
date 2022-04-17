@@ -11,7 +11,7 @@ git clone https://github.com/viccoronado/telegram-bot.git
 npm install
 ```
 
-_Adicionalmente, vas a tener que crear un archivo .env, un Telegram Bot con Bot Father, un grupo en Telegram y agregar el bot a ese grupo._
+_Adicionalmente, vas a tener que crear un archivo .env con las variables de entorno (puerto, token de tu telegram bot e id del chat), un Telegram Bot con Bot Father, un grupo en Telegram y agregar el bot a ese grupo para poder enviar los mensajes._
 
 <div align="center">
     <img src="https://github.com/viccoronado/telegram-bot/blob/main/TelegramBot%20-%20Postman.jpeg" width="375" />
