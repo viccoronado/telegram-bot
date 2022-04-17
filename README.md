@@ -5,13 +5,15 @@ _Este es un sencillo bot de Telegram desarrollado a modo de práctica cuya únic
 
 ### Instalación 🔧
 
-_Si queres clonar este proyecto (y mejorarlo) podes hacerlo clonándolo y con el viejo y confiable_
+_Si queres clonar este proyecto (y mejorarlo) podes hacerlo con nuestros dos viejos y confiables comandos:_
 
 ```
+git clone
+&
 npm install
 ```
 
-_instalas las dependencias necesarias. Vas a tener que crear un archivo .env, un Telegram Bot con Bot Father, un grupo en Telegram y agregar el bot a ese grupo._
+_Adicionalmente, vas a tener que crear un archivo .env, un Telegram Bot con Bot Father, un grupo en Telegram y agregar el bot a ese grupo._
 
 
 ## Construido con 🛠️
