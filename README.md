@@ -23,4 +23,4 @@ _instalas las dependencias necesarias. Vas a tener que crear un archivo .env, un
 
 
 ---
-⌨️ con ❤️ por [Victoria Coronado]https://github.com/viccoronado) 😊
+⌨️ con ❤️ por [Victoria Coronado](https://github.com/viccoronado) 😊
