@@ -8,8 +8,7 @@ _Este es un sencillo bot de Telegram desarrollado a modo de práctica cuya únic
 _Si queres clonar este proyecto (y mejorarlo) podes hacerlo con nuestros dos viejos y confiables comandos:_
 
 ```
-git clone
-&
+git clone https://github.com/viccoronado/telegram-bot.git
 npm install
 ```
 
