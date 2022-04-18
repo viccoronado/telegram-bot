@@ -5,8 +5,10 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon --exec babel-node src/server.js"
+    "start": "babel-node src/server.js",
+    "dev": "nodemon --exec babel-node src/server.js"
   },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/viccoronado/telegram-bot"
