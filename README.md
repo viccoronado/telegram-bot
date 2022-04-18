@@ -15,7 +15,7 @@ _Adicionalmente, vas a tener que crear un archivo .env, un Telegram Bot con Bot 
 
 <div align="center">
     <img src="https://github.com/viccoronado/telegram-bot/blob/main/statics/TelegramBot%20-%20Postman.jpeg" width="375" />
-     <img src="https://github.com/viccoronado/telegram-bot/blob/main/statics/Notifications.jpeg" width="375" />
+     <img src="https://github.com/viccoronado/telegram-bot/blob/main/statics/Notifications2.jpeg" width="375" />
     <img src="https://github.com/viccoronado/telegram-bot/blob/main/statics/LocalHost.png" />
 </div>
 
