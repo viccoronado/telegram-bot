@@ -1,4 +1,4 @@
-# Telegram Bot: Push Notifications 🚀
+# Telegram Bot: Send me a message! 🚀
 
 _Este es un sencillo bot de Telegram desarrollado a modo de práctica cuya única finalidad es enviar push notifications a un grupo de Telegram, pudiendo ésta ser un mensaje de texto y/o un gif._
 
@@ -15,6 +15,7 @@ _Adicionalmente, vas a tener que crear un archivo .env, un Telegram Bot con Bot 
 
 <div align="center">
     <img src="https://github.com/viccoronado/telegram-bot/blob/main/statics/TelegramBot%20-%20Postman.jpeg" width="375" />
+    <img src="https://github.com/viccoronado/telegram-bot/blob/main/statics/LocalHost.png" width="375" />
 </div>
 
 ## Construido con 🛠️
